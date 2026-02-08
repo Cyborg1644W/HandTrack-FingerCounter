@@ -30,5 +30,5 @@ The counter uses the **Landmark Model** to track 21 points on the hand.
 ### Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/HandTrack-FingerCounter.git](https://github.com/YOUR_USERNAME/HandTrack-FingerCounter.git)
+   git clone [https://github.com/Cyborg1644W/HandTrack-FingerCounter.git](https://github.com/Cyborg1644W/HandTrack-FingerCounter.git)
    cd HandTrack-FingerCounter
