@@ -3,7 +3,7 @@ A real-time hand-tracking and finger-counting application built with Python, Ope
 
 # AI Hand Tracker & Finger Counter
 
-A high-performance Computer Vision application that detects hand landmarks in real-time and calculates the number of extended fingers. This version is specifically configured to handle the unique environment requirements of macOS Apple Silicon (M1/M2/M3/M4).
+A high-performance Computer Vision application that detects hand landmarks in real-time and calculates the number of extended fingers. This version is specifically configured to handle the unique environment requirements of macOS Apple Silicon (M Series).
 
 
 
